@@ -1,20 +1,48 @@
 ---
 name: Tech4Dev Project
-about: Suggest an idea for this project
-title: ''
+about: Add a Project
+title: "<NGO Name>-<SP Name>"
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**NGO Name**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Contact Name**
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Contact Email**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Software Partner Name**
+
+**Lead Name**
+
+**Lead Email**	
+
+**Project Description**
+
+**Success Metrics**
+
+**Start Date**
+
+**End Date**
+
+**Status**
+
+**Evaluator Name**
+
+**Estimated Hours**
+
+**Estimated Cost**
+
+**Actual Hours**
+
+**Actual Cost**
+
+**Github URL**
+
+**Google Drive URL**
+
+**NGO Rating**
+
+**SP Rating**
