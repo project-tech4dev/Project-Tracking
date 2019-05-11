@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **NGO Name**
+Delete this line and start here. You can go to the Preview tab to see how it looks. 
 
 **Contact Name**
 
