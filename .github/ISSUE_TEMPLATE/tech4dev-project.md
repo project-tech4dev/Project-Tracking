@@ -2,7 +2,7 @@
 name: Tech4Dev Project
 about: Add a Project
 title: "<NGO Name>-<SP Name>"
-labels: ''
+labels: project
 assignees: ''
 
 ---
