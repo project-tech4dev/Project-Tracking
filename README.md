@@ -14,3 +14,5 @@ If you realize that you made a mistake after you submit your project, follow the
 4. Close the issue.
 5. Create a new issue with the original title with all the corrected information; you can copy information from the closed issue.
 
+## Adding Status Updates and Comments
+To add your status report or comment on a status report, go to the Issues page and click on the title of the project. Scroll to the bottom and enter the comment in the dialog box. Click the Comment button at the bottom. 
